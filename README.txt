@@ -3,6 +3,8 @@ LegionCore 7.3.5
 World of Warcraft Legion 7.3.5 server core, based on TrinityCore.
 
 
+Download in "Releases" section.
+https://github.com/Varjgard/LegionCore/releases
 
 
 Requirements:
@@ -240,4 +242,8 @@ Violet Hold
 
 
 LegionCore 2020
+
+
+Download in "Releases" section.
+https://github.com/Varjgard/LegionCore/releases
 
